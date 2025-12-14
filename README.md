@@ -3,7 +3,7 @@
 
 data.ipynb為生成資料程式，因為使用jupyter notebook編輯，副檔名為ipynb
 
-data.csv為訓練用資料
+data.csv這邊放不上來，已壓縮成zip
 
 test_data.csv為測試用資料
 
